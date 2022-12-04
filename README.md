@@ -32,12 +32,12 @@ $$
 
 where $\eta_j$ $\sim\mathcal{N}$(0, 1) and all $\eta_j$ are independently identically distributed
 
-### Metropolis MCMC results:
+### Metropolis MCMC:
 
 ![Metropolis_MCMC_Results1](figures/corner_plot.png)
 
 ![Metropolis_MCMC_Results2](figures/MCMC_results.png)
 
-### Grid search inversion results:
+### Grid search inversion:
 
 ![Metropolis_MCMC_Results2](figures/grid_search.png)
