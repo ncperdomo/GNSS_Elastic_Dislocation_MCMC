@@ -31,3 +31,13 @@ v_j = v(x_j) + \eta_j
 $$
 
 where $\eta_j$ $\sim\mathcal{N}$(0, 1) and all $\eta_j$ are independently identically distributed
+
+### Metropolis MCMC results:
+
+![Metropolis_MCMC_Results1](figures/corner_plot.png)
+
+![Metropolis_MCMC_Results2](figures/MCMC_results.png)
+
+### Grid search inversion results:
+
+![Metropolis_MCMC_Results2](figures/grid_search.png)
