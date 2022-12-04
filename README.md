@@ -20,9 +20,9 @@ where $a$ is a constant vertical shift applied to the velocity profile, $v_0$ is
 - The parameter domain is defined as follows:
     - x $\in$ [−150, 150] km
     - a $\in$ [-5, 5] mm/yr
-    - v0 $\in$ [0, 50] mm/yr
-    - DL $\in$ [0, 50] km
-    - x0 $\in$ [−25, 25] km
+    - $v_0$ $\in$ [0, 50] mm/yr
+    - $D_L$ $\in$ [0, 50] km
+    - $x_0$ $\in$ [−25, 25] km
 
 - A Gaussian error model will be used, so that at any given location $x_j$, fault-parallel velocities satisfy:
 
