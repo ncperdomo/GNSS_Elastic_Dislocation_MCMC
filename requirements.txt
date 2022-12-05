@@ -1,0 +1,6 @@
+corner==2.2.1
+ipywidgets==8.0.2
+matplotlib==3.6.2
+numpy==1.23.5
+scipy==1.9.3
+seaborn==0.12.1
