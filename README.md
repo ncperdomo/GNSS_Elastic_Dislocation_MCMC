@@ -7,7 +7,7 @@ Nicolás Castro-Perdomo
 ### Main Goal:
 - Implement a random walk Metropolis sampling algorithm to estimate fault kinematic parameters $(a, v_0, D_L, x_0)$ in an elastic half-space dislocation model (e.g., Weertman and Weertman, 1964; Savage and Burford, 1973).
 
-- The model describes the theoretical horizontal velocity profile across a vertical fault as a function of the distance $x$ from the fault:
+- The model describes the theoretical horizontal velocity profile across a vertical fault as a function of the spatial variable $x$:
 
 $$
 v(x) = a + \frac{v_0}{\pi} tan^{-1} \Big( \frac{x-x_0}{D_L} \Big)
