@@ -1,5 +1,5 @@
 # Final Project, STAT-S610 - Statistical computing
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncperdomo/Final_Project_STAT_610/0c9d0f1593db13f8fcb0b94efaff9050e3cb9135?urlpath=lab%2Ftree%2FFinal_Project_STAT610.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncperdomo/Final_Project_STAT_610/HEAD?labpath=Final_Project_STAT610.ipynb)
 ### Fault Kinematics Along the San Andreas Fault from GPS Data Using Metropolis MCMC
 
 Nicolás Castro-Perdomo
