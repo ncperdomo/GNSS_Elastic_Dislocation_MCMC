@@ -1,4 +1,4 @@
-# Elastic Dislocation Modelling using MCMC 
+# Elastic Dislocation Modelling using Metropolis MCMC 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncperdomo/Final_Project_STAT_610/HEAD?labpath=Final_Project_STAT610.ipynb)
 ### Fault Kinematics Along the San Andreas Fault from GPS Data Using Metropolis MCMC
 
