@@ -1,8 +1,9 @@
-# Final Project, STAT-S610 - Statistical computing
+# Elastic Dislocation Modelling using MCMC 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncperdomo/Final_Project_STAT_610/HEAD?labpath=Final_Project_STAT610.ipynb)
 ### Fault Kinematics Along the San Andreas Fault from GPS Data Using Metropolis MCMC
 
 Nicolás Castro-Perdomo
+Indiana University, 2022
 
 ### Main Goal:
 - Implement a random walk Metropolis sampling algorithm to estimate fault kinematic parameters $(a, v_0, D_L, x_0)$ in an elastic half-space dislocation model (e.g., Weertman and Weertman, 1964; Savage and Burford, 1973).
