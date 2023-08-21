@@ -3,6 +3,7 @@
 ### Fault Kinematics Along the San Andreas Fault from GPS Data Using Metropolis MCMC
 
 Nicolás Castro-Perdomo
+
 Indiana University, 2022
 
 ### Main Goal:
