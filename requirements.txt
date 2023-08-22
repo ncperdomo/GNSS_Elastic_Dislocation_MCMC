@@ -2,5 +2,5 @@ corner==2.1.0
 ipywidgets==7.6.0
 matplotlib==3.4.0
 numpy==1.20.0
-scipy==1.7.1
+scipy==1.7.2
 seaborn==0.10.0
